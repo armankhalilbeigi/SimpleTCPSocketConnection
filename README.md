@@ -5,8 +5,8 @@ it can be used as a two-way connection between Grasshopper to some other softwar
 
 I initially wrote it to send and receive data between Grasshopper and Unreal Engine.
 
-- (Tested with UE 4.26, Rhino 7.16)
-- it also worked for sending commands to UR10 arms.
+- Tested with UE 4.26, Rhino 7.16
+- Also tested  for sending commands to UR10 arms.
 ---
 
 A. Connection Start: With this function, both the client and server are started based on a Boolean input
